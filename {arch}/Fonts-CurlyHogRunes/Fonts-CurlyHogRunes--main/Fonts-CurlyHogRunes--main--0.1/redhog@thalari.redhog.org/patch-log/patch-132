@@ -1,0 +1,17 @@
+Revision: Fonts-CurlyHogRunes--main--0.1--patch-132
+Archive: redhog@thalari.redhog.org
+Creator: Egil Moeller <redhog@thalari.redhog.org>
+Date: Sun Nov  2 20:32:18 CET 2008
+Standard-date: 2008-11-02 19:32:18 GMT
+New-files: .arch-ids/=id .arch-ids/FlagGothic.afm.id
+    .arch-ids/FlagGothic.otf.id .arch-ids/FlagGothic.pfa.id
+    .arch-ids/FlagGothic.ps.id .arch-ids/FlagGothic.sfd.id
+    .arch-ids/FlagGothic.ttf.id FlagGothic.afm
+    FlagGothic.otf FlagGothic.pfa FlagGothic.ps
+    FlagGothic.sfd FlagGothic.ttf
+Modified-files: src/CurlyHogRunes-Body-Medium.sfd
+    src/CurlyHogRunes-Bold.sfd src/CurlyHogRunes-Medium.sfd
+New-patches: redhog@thalari.redhog.org/Fonts-CurlyHogRunes--main--0.1--patch-132
+Summary: Enlarged the braces and fxied @ and G a bit
+Keywords: 
+

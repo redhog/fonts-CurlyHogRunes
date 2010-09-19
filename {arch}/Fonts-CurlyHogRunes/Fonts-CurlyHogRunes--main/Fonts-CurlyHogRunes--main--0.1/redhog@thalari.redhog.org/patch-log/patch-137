@@ -1,0 +1,16 @@
+Revision: Fonts-CurlyHogRunes--main--0.1--patch-137
+Archive: redhog@thalari.redhog.org
+Creator: Egil Moeller <redhog@thalari.redhog.org>
+Date: Thu Dec  4 09:24:08 CET 2008
+Standard-date: 2008-12-04 08:24:08 GMT
+Removed-files: .arch-ids/FlagGothic.afm.id
+    .arch-ids/FlagGothic.otf.id .arch-ids/FlagGothic.pfa.id
+    .arch-ids/FlagGothic.ps.id .arch-ids/FlagGothic.sfd.id
+    .arch-ids/FlagGothic.ttf.id FlagGothic.afm
+    FlagGothic.otf FlagGothic.pfa FlagGothic.ps
+    FlagGothic.sfd FlagGothic.ttf
+Modified-files: src/CurlyHogRunes-Bold.sfd
+New-patches: redhog@thalari.redhog.org/Fonts-CurlyHogRunes--main--0.1--patch-137
+Summary: removed FlagGothic
+Keywords: 
+

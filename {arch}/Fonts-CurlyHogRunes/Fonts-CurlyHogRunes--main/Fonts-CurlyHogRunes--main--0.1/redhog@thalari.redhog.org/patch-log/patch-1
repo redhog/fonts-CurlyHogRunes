@@ -1,0 +1,25 @@
+Revision: Fonts-CurlyHogRunes--main--0.1--patch-1
+Archive: redhog@thalari.redhog.org
+Creator: Egil Moeller <redhog@thalari.redhog.org>
+Date: Thu Jul 19 22:25:18 CEST 2007
+Standard-date: 2007-07-19 20:25:18 GMT
+Removed-files: Old/.arch-ids/=id
+    Old/.arch-ids/FestFont.sfd.id Old/FestFont.sfd
+    originals/.arch-ids/byuzhvKNxABCEGHJ.eps.id
+    originals/.arch-ids/byuzhvKNxABCEGHJ.png.id
+    originals/.arch-ids/byuzhvKNxABCEGHJ.ppm.id
+    originals/.arch-ids/fsp.eps.id
+    originals/.arch-ids/fsp.fig.id
+    originals/.arch-ids/vaelkommen\(sp)fspaa.pnm.id
+    originals/.arch-ids/vaelkommen.eps.id
+    originals/.arch-ids/vaelkommen.fig.id
+    originals/byuzhvKNxABCEGHJ.eps
+    originals/byuzhvKNxABCEGHJ.png
+    originals/byuzhvKNxABCEGHJ.ppm originals/fsp.eps
+    originals/fsp.fig originals/vaelkommen\(sp)fspaa.pnm
+    originals/vaelkommen.eps originals/vaelkommen.fig
+Removed-directories: Old Old/.arch-ids
+New-patches: redhog@thalari.redhog.org/Fonts-CurlyHogRunes--main--0.1--patch-1
+Summary: Cleanup
+Keywords: 
+
