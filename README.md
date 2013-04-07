@@ -5,13 +5,9 @@ sub-culture. They strive to provide a full set of fonts for a document
 
 # The font set
 
- * CurlyHogRunes
-   Weights: Medium, Bold
-   This font is indended for headings, enfangs, front-page titles, labels and the like.
+ * CurlyHogRunes: This font is indended for headings, enfangs, front-page titles, labels and the like. Weights: Medium, Bold.
 
- * CurlyHogRunes-Body
-   Weights: Medium
-   This font is indended for normal body text and leading text
+ * CurlyHogRunes-Body: This font is indended for normal body text and leading text. Weights: Medium.
 
 # Tools
 These fonts started out as pencil drawings, which got scanned. The
